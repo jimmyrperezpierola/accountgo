@@ -36,7 +36,7 @@
     "jspdf": "1.4.1",
     "knockout": "^3.5.0",
     "knockout-mapping": "2.6.0",
-    "mobx": "5.5.0",
+    "mobx": "5.15.7",
     "mobx-react": "5.2.8",
     "pace-progress": "^1.0.2",
     "perfect-scrollbar": "^1.4.0",
