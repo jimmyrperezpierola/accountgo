@@ -24,7 +24,7 @@
     "@coreui/icons": "^0.3.0",
     "accounting": "0.4.1",
     "ag-grid": "18.1.2",
-    "ag-grid-community": "^19.0.0",
+    "ag-grid-community": "^31.3.4",
     "ajv": "^6.5.4",
     "axios": "0.18.0",
     "bootstrap": "4.3.1",
